@@ -57,6 +57,7 @@
 <br>
 
 ## 👩🏻‍💻 Collaboration Tool
+<br><br>
 <p align="center">    
     <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-330064?style=flat-square&logo=Slack&logoColor=white"/>
@@ -66,7 +67,7 @@
 <br><br>
 
 ## 🙋🏻‍♀️ Contact me
-
+<br><br>
 <div align="center">
     <a href="https://open.kakao.com/o/sWxtigwc">
         <img 

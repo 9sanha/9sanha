@@ -1,5 +1,8 @@
 
-
+<p align="right">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9sanha2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</p>
 
 
 ## 👋🏻 Hi there  

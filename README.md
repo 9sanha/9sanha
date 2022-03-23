@@ -8,7 +8,7 @@
 ## 👋🏻 Hi there  
 
 - 👩🏻‍💼   백앤드 개발을 공부하고 있습니다!
-- 💻   스프링과 스프링 부트를 사용해 개발중입니다!
+- ~~💻   스프링과 스프링 부트를 사용해 개발중입니다!~~ 👉🏻 현재는 자바스크립트 풀스택...
 - 👩🏻‍🏫   5명의 팀원과 함께 사이트를 운영중입니다! [사이트 구경하기](https://scopewith.com/)
 - 🙆🏻   다른 사람에게 영감을 줄 수 있는 사람이 되고 싶습니다 :)
 
@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-330064?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-333600?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jira-000077?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
 <br><br>

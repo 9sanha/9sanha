@@ -39,6 +39,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=sky"/>
 
 
    
@@ -48,6 +49,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-342FF?style=flat-square&logo=mongoDb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+    
 </p>
 
 
@@ -62,7 +64,7 @@
     <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-330064?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-333600?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jira-000077?style=flat-square&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jira-000000?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
 <br><br>
